@@ -1,3 +1,3 @@
-files downloaded from cloned repo
+Testing the changes between user 1 and user 2 
 
-linked to the main remote git hub account via the git folder
+git hub functionality Testing
